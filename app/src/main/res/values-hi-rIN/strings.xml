@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">just java</string>
+    <string name="name">कृपया अपना नाम दर्ज करे</string>
+    <string name="order">ऑर्डर</string>
+    <string name="quantity">मात्रा</string>
+    <string name="toppings">टोपिंग्स</string>
+    <string name="whipped_cream">विप्ड क्रीम</string>
+    <string name="chocolate">चॉक्लेट</string>
+    <string name="thank_you">धन्याबाद</string>
+    <string name="price">मूल्य</string>
+    <string name="add_whipped_cream">एक्सट्रा विप्ड क्रीम</string>
+    <string name="add_chocolate">एक्सट्रा चॉक्लेट</string>
+</resources>
